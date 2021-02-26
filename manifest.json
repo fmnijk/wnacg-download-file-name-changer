@@ -22,8 +22,7 @@
             "background.js"
         ]
     },
-    "permissions": [ 
-        "tabs",
+    "permissions": [
         "downloads"
     ]
 }
